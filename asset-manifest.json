@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/therealilyas/tesla.com.git/static/css/main.864c58c2.css",
+    "main.js": "/therealilyas/tesla.com.git/static/js/main.be9a3be1.js",
+    "index.html": "/therealilyas/tesla.com.git/index.html",
+    "main.864c58c2.css.map": "/therealilyas/tesla.com.git/static/css/main.864c58c2.css.map",
+    "main.be9a3be1.js.map": "/therealilyas/tesla.com.git/static/js/main.be9a3be1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.864c58c2.css",
+    "static/js/main.be9a3be1.js"
+  ]
+}
