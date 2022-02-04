@@ -41,6 +41,13 @@ const Home = () => {
                rightBtnText="Learn more"
              />
              <Section
+               title="Solar Roof"
+               description="Produce Clean Energy From Your Roof"
+               backgroundIMg="solar-roof.jpg"
+               leftBtnText="Order now"
+               rightBtnText="Learn more"
+             />
+             <Section
                title="Accessories"
                description=""
                backgroundIMg="accessories.jpg"
@@ -53,7 +60,9 @@ const Home = () => {
 export default Home;
 const div = styled.div
 const Container = div`
-height:100vh;
+  height: 100vh;
+  z-index: 10;
+  
 `
 
 
